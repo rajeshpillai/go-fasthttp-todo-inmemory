@@ -1,6 +1,9 @@
 # Uploaded files (optional: ignore the uploads directory if you don't want to commit images)
 uploads/
 
+# TEmps
+.main.go.un*
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
